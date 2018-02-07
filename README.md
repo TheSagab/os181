@@ -1,2 +1,2 @@
 # os181
-Repository for Operating System course at CSUI
+ZCZC Sistem Operasi 2018 Awal (1)
